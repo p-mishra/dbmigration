@@ -121,8 +121,7 @@
         </plugins>
     </reporting>
   
-    <distributionManagement/>
-    
+    <distributionManagement/>    
     <profiles>
         <profile>
             <id>development</id>
