@@ -19,7 +19,6 @@
             <url>http://apps.argusoft.com/nexus/content/groups/public</url>
         </repository>
     </repositories>
-
     <build>
         <pluginManagement>
             <plugins>
