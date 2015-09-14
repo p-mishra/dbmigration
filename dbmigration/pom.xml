@@ -119,8 +119,7 @@
                 </configuration>
             </plugin>
         </plugins>
-    </reporting>
-  
+    </reporting>  
     <distributionManagement/>    
     <profiles>
         <profile>
